@@ -1,5 +1,5 @@
 Hey, I'm Vijay 👋
-I'm a Computer Engineering student from Kerala who got into coding in 2023 and hasn't really stopped since. I mostly work with backend and full-stack web stuff — Python/Django got me started, then I picked up the MERN stack and Flutter along the way.
+I'm a Computer Engineering student from Kerala who got into coding in 2023 and hasn't really stopped since. I mostly work with backend and full-stack web stuff — Python/Django got me started, then I picked up the MERN stack along the way.
 Still learning, still building.
 
 🛠️ What I work with
