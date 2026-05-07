@@ -1,4 +1,4 @@
-# $${\color{RoyalBlue}Vijay \space Vinoj}$$
+# Vijay Vinoj
 **Full-Stack Developer**
 
 I am a computer engineering graduate specializing in backend and full-stack architecture. I focus on building functional, secure web applications and am currently mastering the MERN stack through production-style projects.
@@ -7,37 +7,38 @@ I am a computer engineering graduate specializing in backend and full-stack arch
 
 ---
 
-### $${\color{RoyalBlue}Tech \space Stack}$$
+### <samp>Tech Stack</samp>
 
-**Actively Implementing:**
+**Actively Implementing**
 `MongoDB` `Express.js` `React` `Node.js`
 
-**Familiar With:**
+**Familiar With**
 * **Languages:** `Python` `JavaScript` `Java` `PHP` `C`
 * **Frameworks & Tech:** `Django` `Flutter` `MySQL`
 * **Tools & OS:** `Git` `VS Code` `Linux` `Windows`
 
 ---
 
-### $${\color{RoyalBlue}Projects}$$
+### <samp>Projects</samp>
 
-**Authentication System** | *MERN Stack, JWT*
+**Authentication System** | MERN Stack, JWT
 > A full-stack implementation of secure user sessions, focusing on JWT-based authentication and password hashing.
 
-**Task Management App** | *MERN Stack*
+**Task Management App** | MERN Stack
 > A project demonstrating full CRUD functionality and RESTful API integration between a React frontend and a Node/Express backend.
 
 ---
 
-### $${\color{RoyalBlue}Internships}$$
+### <samp>Internships</samp>
 
-* **Flutter Developer Intern** (May 2025)
-  — Gained professional exposure to mobile UI development and cross-platform workflows.
-* **Python/Django Developer Intern** (May 2024)
-  — Focused on backend logic, authentication modules, and relational database modeling.
+**Flutter Developer Intern** (May 2025)
+— Gained professional exposure to mobile UI development and cross-platform workflows.
+
+**Python/Django Developer Intern** (May 2024)
+— Focused on backend logic, authentication modules, and relational database modeling.
 
 ---
 
-### $${\color{RoyalBlue}Let's \space Connect}$$
-* **Email:** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
-* **Location:** Alappuzha, Kerala, India
+### <samp>Let's Connect</samp>
+**Email** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
+**Location** Alappuzha, Kerala, India
