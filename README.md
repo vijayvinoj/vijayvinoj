@@ -1,15 +1,15 @@
-# Vijay Vinoj
+# $${\color{RoyalBlue}Vijay \space Vinoj}$$
 **Full-Stack Developer**
 
-I am a software developer with a strong interest in backend and full-stack architecture. My current primary focus is on mastering the MERN stack through hands-on, production-style projects. I enjoy solving problems, building clean interfaces, and continuously expanding my technical skill set.
+I am a computer engineering graduate specializing in backend and full-stack architecture. I focus on building functional, secure web applications and am currently mastering the MERN stack through production-style projects.
 
-> **Currently Building:** A Full-Stack Job Portal utilizing the MERN stack to implement Role-Based Access Control (RBAC) and secure routing.
+> **Current Focus:** Developing a Full-Stack Job Portal using the MERN stack to implement secure authentication and Role-Based Access Control (RBAC).
 
 ---
 
-### Tech Stack
+### $${\color{RoyalBlue}Tech \space Stack}$$
 
-**Current Focus:**
+**Actively Implementing:**
 `MongoDB` `Express.js` `React` `Node.js`
 
 **Familiar With:**
@@ -19,27 +19,25 @@ I am a software developer with a strong interest in backend and full-stack archi
 
 ---
 
-### Featured Projects
+### $${\color{RoyalBlue}Projects}$$
 
 **Authentication System** | *MERN Stack, JWT*
-> A full-stack authentication flow featuring JWT-based login/logout, protected routes, and password hashing. Built to understand the core mechanics of web security and user sessions.
+> A full-stack implementation of secure user sessions, focusing on JWT-based authentication and password hashing.
 
 **Task Management App** | *MERN Stack*
-> A full-stack CRUD application demonstrating REST API integration. Features a React frontend connected to a Node/Express backend, using MongoDB for database storage. 
+> A project demonstrating full CRUD functionality and RESTful API integration between a React frontend and a Node/Express backend.
 
 ---
 
-### Experience
+### $${\color{RoyalBlue}Internships}$$
 
 * **Flutter Developer Intern** (May 2025)
-  — Worked on cross-platform mobile user interfaces using Flutter and Dart.
+  — Gained professional exposure to mobile UI development and cross-platform workflows.
 * **Python/Django Developer Intern** (May 2024)
-  — Built backend web applications, handled authentication, and worked with relational database models using Django.
+  — Focused on backend logic, authentication modules, and relational database modeling.
 
 ---
 
-### Let's Connect
-* **Full Name:** Vijay Vinoj
+### $${\color{RoyalBlue}Let's \space Connect}$$
 * **Email:** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
 * **Location:** Alappuzha, Kerala, India
-* **Phone:** +91 8289959508
