@@ -1,29 +1,44 @@
-Hey, I'm Vijay 
-I'm a Computer Engineering student from Kerala who got into coding in 2023 and hasn't really stopped since. I mostly work with backend and full-stack web stuff — Python/Django got me started, then I picked up the MERN stack along the way.
-Still learning, still building.
+# Vijay
+**Full-Stack Developer**
 
-What I work with
-Languages: Python, JavaScript, Java, PHP, C
-Backend: Django, Node.js, Express.js
-Frontend: React, HTML, CSS
-Mobile: Flutter (Dart)
-Database: MongoDB, MySQL
-Tools: Git, VS Code
-Operating System: Linux, Windows 
+I am a software developer with a strong interest in backend and full-stack architecture. My current primary focus is on mastering the MERN stack through hands-on, production-style projects. I enjoy solving problems, building clean interfaces, and continuously expanding my technical skill set.
 
-Things I've built
+> **Currently Building:** A Full-Stack Job Portal utilizing the MERN stack to implement Role-Based Access Control (RBAC) and secure routing.
 
-Authentication System — MERN Stack
-A full-stack auth system with JWT login/logout, protected routes, and hashed passwords. Pretty much the foundation of any real app.
-MongoDB Express.js React Node.js JWT
+---
 
-Todo App — MERN Stack
-Nothing fancy, but it's a clean full-stack CRUD app — React on the front, Node/Express on the back, MongoDB for storage.
-MongoDB Express.js React Node.js
-💼 Experience
-Flutter Developer Intern — Worked on mobile app UIs with Flutter and Dart (May 2025)
-Python Django Developer Intern — Built backend web apps, handled auth and database models with Django (May 2024)
-📫 Reach me
-📧 vijayvinoj88@gmail.com
-📍 Alappuzha, Kerala, India
-📱 +91 8289959508
+### Tech Stack
+
+**Current Focus:**
+`MongoDB` `Express.js` `React` `Node.js`
+
+**Familiar With:**
+* **Languages:** `Python` `JavaScript` `Java` `PHP` `C`
+* **Frameworks & Tech:** `Django` `Flutter` `MySQL`
+* **Tools & OS:** `Git` `VS Code` `Linux` `Windows`
+
+---
+
+### Featured Projects
+
+**Authentication System** | *MERN Stack, JWT*
+> A full-stack authentication flow featuring JWT-based login/logout, protected routes, and password hashing. Built to understand the core mechanics of web security and user sessions.
+
+**Task Management App** | *MERN Stack*
+> A full-stack CRUD application demonstrating REST API integration. Features a React frontend connected to a Node/Express backend, using MongoDB for database storage. 
+
+---
+
+### Experience
+
+* **Flutter Developer Intern** (May 2025)
+  — Worked on cross-platform mobile user interfaces using Flutter and Dart.
+* **Python/Django Developer Intern** (May 2024)
+  — Built backend web applications, handled authentication, and worked with relational database models using Django.
+
+---
+
+### Let's Connect
+* **Email:** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
+* **Location:** Alappuzha, Kerala, India
+* **Phone:** +91 8289959508
