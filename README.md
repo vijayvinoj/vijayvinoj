@@ -39,8 +39,10 @@ I am a computer engineering graduate specializing in backend and full-stack arch
 
 ---
 
+---
+
 ### <samp>Let's Connect</samp>
 
-**Email:** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
-**Phone:** +91 8289959508
-**Location:** Alappuzha, Kerala, India
+* **Email:** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
+* **Phone:** +91 8289959508
+* **Location:** Alappuzha, Kerala, India
