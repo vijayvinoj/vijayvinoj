@@ -1,4 +1,4 @@
-# Vijay
+# Vijay Vinoj
 **Full-Stack Developer**
 
 I am a software developer with a strong interest in backend and full-stack architecture. My current primary focus is on mastering the MERN stack through hands-on, production-style projects. I enjoy solving problems, building clean interfaces, and continuously expanding my technical skill set.
@@ -39,6 +39,7 @@ I am a software developer with a strong interest in backend and full-stack archi
 ---
 
 ### Let's Connect
+* **Full Name:** Vijay Vinoj
 * **Email:** [vijayvinoj88@gmail.com](mailto:vijayvinoj88@gmail.com)
 * **Location:** Alappuzha, Kerala, India
 * **Phone:** +91 8289959508
