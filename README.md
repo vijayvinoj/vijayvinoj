@@ -5,4 +5,4 @@
 
 ---
 
-Focused on backend architecture, system design, and building scalable web applications.
+Focused on backend architecture, system design, scalable web applications.
